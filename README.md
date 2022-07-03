@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sjiwani6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @soha17
+- 👀 I’m interested in privacy and making cool projects.
+- 🌱 I’m currently learning how to build my own website.
 
 <!---
-sjiwani6/sjiwani6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sjiwani6/soha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
